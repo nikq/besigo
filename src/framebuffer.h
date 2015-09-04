@@ -1,4 +1,10 @@
-﻿#ifndef __FRAMEBUFFER_H
+﻿/*
+ * copyright(c) 2015 Hajime UCHIMURA.
+ * do not remove these text.
+ * please contact before business use.
+ */
+
+#ifndef __FRAMEBUFFER_H
 #define __FRAMEBUFFER_H
 
 #include <stdio.h>

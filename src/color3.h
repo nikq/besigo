@@ -1,4 +1,10 @@
-﻿#include <assert.h>
+﻿/*
+ * copyright(c) 2015 Hajime UCHIMURA.
+ * do not remove these text.
+ * please contact before business use.
+ */
+
+#include <assert.h>
 #include <vector>
 
 #ifndef __COLOR3_H

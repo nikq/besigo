@@ -1,4 +1,10 @@
-﻿#ifndef __LENSNUMA_H
+﻿/*
+ * copyright(c) 2015 Hajime UCHIMURA.
+ * do not remove these text.
+ * please contact before business use.
+ */
+
+#ifndef __LENSNUMA_H
 #define __LENSNUMA_H
 
 #include "kelemenmlt.h"

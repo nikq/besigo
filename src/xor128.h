@@ -1,3 +1,9 @@
+/*
+ * copyright(c) 2015 Hajime UCHIMURA.
+ * do not remove these text.
+ * please contact before business use.
+ */
+
 #ifndef __XOR128_H
 #define __XOR128_H
 

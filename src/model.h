@@ -1,4 +1,10 @@
 ﻿/*
+ * copyright(c) 2015 Hajime UCHIMURA.
+ * do not remove these text.
+ * please contact before business use.
+ */
+
+/*
  *
  * MQO file loader.
  *
